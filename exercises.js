@@ -1,57 +1,6 @@
 //Do not change any of the function names
 
 
-function subtract(x, y) {
-  // subtract y from x and return the value
-  // code here
-}
-
-function divide(x, y) {
-  // divide x by y and return the value
-  // code here
-}
-
-function multiply(x, y) {
-  // multiply x by y and return the value
-  // code here
-}
-
-function getRemainder(x, y) {
-  // return the remainder from dividing x by y
-  // code here
-}
-
-function isEven(num) {
-  // return true if num is even
-  // otherwise return false
-  // code here
-}
-
-function isOdd(num) {
-  // return true if num is false
-  // otherwise return false
-  // code here
-}
-
-function square(num) {
-  // square num and return the new value
-  // code here
-}
-
-function cube(num) {
-  // cube num and return the new value
-  // code here
-}
-
-function raiseToPower(num, exponent) {
-  // raise num to whatever power is passed in as exponent
-  // code here
-}
-
-function roundNumber(num) {
-  // round num and return it
-  // code here
-}
 function multiplyByTen(num) {
   /* return num after multiplying it by ten */
   // var    product = num * 10;
